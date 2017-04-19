@@ -1,4 +1,7 @@
-# test coverage for  [nightwatch (v0.9.14)](http://nightwatchjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-nightwatch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightwatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightwatch.svg)](https://travis-ci.org/npmtest/node-npmtest-nightwatch)
+# npmtest-nightwatch
+
+#### test coverage for  [nightwatch (v0.9.14)](http://nightwatchjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-nightwatch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightwatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightwatch.svg)](https://travis-ci.org/npmtest/node-npmtest-nightwatch)
+
 #### A node.js bindings implementation for selenium 2.0/webdriver
 
 [![NPM](https://nodei.co/npm/nightwatch.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nightwatch)
