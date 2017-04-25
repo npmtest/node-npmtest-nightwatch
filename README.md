@@ -1,6 +1,6 @@
 # npmtest-nightwatch
 
-#### test coverage for  [nightwatch (v0.9.14)](http://nightwatchjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-nightwatch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightwatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightwatch.svg)](https://travis-ci.org/npmtest/node-npmtest-nightwatch)
+#### basic test coverage for  [nightwatch (v0.9.14)](http://nightwatchjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-nightwatch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nightwatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nightwatch.svg)](https://travis-ci.org/npmtest/node-npmtest-nightwatch)
 
 #### A node.js bindings implementation for selenium 2.0/webdriver
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nightwatch/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nightwatch/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nightwatch/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nightwatch/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nightwatch/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nightwatch/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nightwatch/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nightwatch/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nightwatch/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nightwatch/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nightwatch/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nightwatch/build/coverage.html/index.html)
 
